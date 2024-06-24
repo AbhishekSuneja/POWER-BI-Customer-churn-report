@@ -12,7 +12,7 @@ As the second task of my virtual job simulation with PWC Switzerland, for the sa
 
 - **Risk Factors and Churn Metrics:** Key churn factors include internet type, subscription length, and payment methods. Higher monthly charges are linked to increased churn.
 
-- **Conclusion:** The Power BI dashboard gives PhoneNow clear KPIs, helping identify at-risk customers and churn factors. Addressing these insights can improve customer retention and call center efficiency.
+**Conclusion:** The Power BI dashboard gives PhoneNow clear KPIs, helping identify at-risk customers and churn factors. Addressing these insights can improve customer retention and call center efficiency.
 
 
 ![Screenshot (171)](https://github.com/AbhishekSuneja/POWER-BI-Customer-churn-report/assets/136248049/6c8ce5f1-d309-4698-8e13-b91121d121e4)
